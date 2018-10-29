@@ -1,0 +1,105 @@
+
+/* Class = "UILabel"; text = "Address:"; ObjectID = "3BY-tl-cbo"; */
+"3BY-tl-cbo.text" = "Address:";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "4N1-AT-IkQ"; */
+"4N1-AT-IkQ.normalTitle" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "51K-uF-7V5"; */
+"51K-uF-7V5.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "Address"; ObjectID = "55b-4W-U8l"; */
+"55b-4W-U8l.placeholder" = "Address";
+
+/* Class = "UIButton"; normalTitle = "Return to login"; ObjectID = "BJ9-lA-3Js"; */
+"BJ9-lA-3Js.normalTitle" = "Return to login";
+
+/* Class = "UITextField"; placeholder = "Mobile"; ObjectID = "BVj-cZ-BDe"; */
+"BVj-cZ-BDe.placeholder" = "Mobile";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "EDc-7a-KNB"; */
+"EDc-7a-KNB.text" = "Name:";
+
+/* Class = "UIButton"; normalTitle = "Register now!"; ObjectID = "FKg-4N-ejn"; */
+"FKg-4N-ejn.normalTitle" = "Register now!";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Hd4-GH-IOH"; */
+"Hd4-GH-IOH.title" = " ";
+
+/* Class = "UILabel"; text = "Vote:"; ObjectID = "HpZ-4a-Mju"; */
+"HpZ-4a-Mju.text" = "Vote:";
+
+/* Class = "UIButton"; normalTitle = "Modify or Add Mates Position"; ObjectID = "J9W-yV-3cM"; */
+"J9W-yV-3cM.normalTitle" = "Modify or Add Mates Position";
+
+/* Class = "UILabel"; text = "Surname:"; ObjectID = "JnL-OD-Y3r"; */
+"JnL-OD-Y3r.text" = "Surname:";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Jzr-xD-6WZ"; */
+"Jzr-xD-6WZ.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "KmU-pM-4LD"; */
+"KmU-pM-4LD.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "L2h-WY-H1U"; */
+"L2h-WY-H1U.placeholder" = "Surname";
+
+/* Class = "UILabel"; text = "E-Mail:"; ObjectID = "MHd-1S-bm8"; */
+"MHd-1S-bm8.text" = "E-Mail:";
+
+/* Class = "UITextField"; placeholder = "E-Mail"; ObjectID = "P4D-jQ-Ula"; */
+"P4D-jQ-Ula.placeholder" = "E-Mail";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "S8m-aB-VVv"; */
+"S8m-aB-VVv.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "Tq2-Yx-HOA"; */
+"Tq2-Yx-HOA.text" = "Password:";
+
+/* Class = "UITextField"; placeholder = "E-Mail"; ObjectID = "UMI-VZ-N7l"; */
+"UMI-VZ-N7l.placeholder" = "E-Mail";
+
+/* Class = "UILabel"; text = "E-Mail:"; ObjectID = "VjT-pk-6ut"; */
+"VjT-pk-6ut.text" = "E-Mail:";
+
+/* Class = "UITextField"; placeholder = "Surname"; ObjectID = "ZW3-9C-BJr"; */
+"ZW3-9C-BJr.placeholder" = "Surname";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "ZW3-gJ-WxY"; */
+"ZW3-gJ-WxY.placeholder" = "Repeat Password";
+
+/* Class = "UIButton"; normalTitle = "Surname"; ObjectID = "aep-hC-BJ0"; */
+"aep-hC-BJ0.normalTitle" = "Surname";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "c2i-u8-173"; */
+"c2i-u8-173.text" = "Password:";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "c5k-qL-8Mz"; */
+"c5k-qL-8Mz.text" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "etz-jn-StJ"; */
+"etz-jn-StJ.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "k7k-jJ-DGt"; */
+"k7k-jJ-DGt.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "k9A-xM-Z0q"; */
+"k9A-xM-Z0q.text" = "Mobile:";
+
+/* Class = "UIButton"; normalTitle = "Name"; ObjectID = "lOw-6K-zG8"; */
+"lOw-6K-zG8.normalTitle" = "Name";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "m4J-3s-Y1X"; */
+"m4J-3s-Y1X.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "oMB-To-uh4"; */
+"oMB-To-uh4.text" = "Password:";
+
+/* Class = "UIButton"; normalTitle = "Rating"; ObjectID = "pBK-G6-CkK"; */
+"pBK-G6-CkK.normalTitle" = "Rating";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "plh-Dn-AQS"; */
+"plh-Dn-AQS.text" = "Login";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "xkm-LG-GdB"; */
+"xkm-LG-GdB.placeholder" = "Password";
